@@ -79,16 +79,11 @@ El proyecto incluye diferentes gráficos que permiten interpretar de manera visu
 
 ---
 
-# 🚀 Cómo ejecutar el proyecto
+## ▶ Ejecutar el proyecto
 
-```bash
-git clone https://github.com/sergioingmeca-cyber/Project-NovaRetail.git
+Puedes explorar y ejecutar este proyecto directamente en Google Colab, sin necesidad de instalar dependencias en tu equipo.
 
-cd Project-NovaRetail
-
-pip install -r requirements.txt
-
-jupyter notebook
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sergioingmeca-cyber/Project-NovaRetail/blob/main/Project_NovaRetail.ipynb)
 ```
 
 ---
