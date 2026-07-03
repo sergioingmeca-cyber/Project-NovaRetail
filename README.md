@@ -73,18 +73,13 @@ Durante el análisis fue posible:
 
 ---
 
-# 📈 Visualizaciones
-
-El proyecto incluye diferentes gráficos que permiten interpretar de manera visual los principales indicadores de negocio y las relaciones existentes entre las variables analizadas.
-
----
 
 ## ▶ Ejecutar el proyecto
 
-* Puedes explorar y ejecutar este proyecto directamente en Google Colab, sin necesidad de instalar dependencias en tu equipo.
+Puedes explorar y ejecutar este proyecto directamente en Google Colab, sin necesidad de instalar dependencias en tu equipo.
+ 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sergioingmeca-cyber/Project-NovaRetail/blob/main/Project_NovaRetail.ipynb)
 
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sergioingmeca-cyber/Project-NovaRetail/blob/main/Project_NovaRetail.ipynb)
-```
 
 ---
 
